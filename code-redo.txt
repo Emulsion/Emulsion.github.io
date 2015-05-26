@@ -1,0 +1,177 @@
+<!--team-starts-->
+	<div class="team" id="team">
+		<div class="container">
+			<div class="team-top">
+				<h3>Our Team</h3>
+				<span> </span>
+			</div>
+			<div class="team-bottom">
+				<div class="col-md-4 team-left">
+					<img src="images/team-1.jpg" alt="" />
+					<h4>Jack Clark</h4>
+					<ul>
+						<li><a href="#"><span class="fb"> </span></a></li>
+						<li><a href="#"><span class="t"> </span></a></li>
+						<li><a href="#"><span class="g"> </span></a></li>
+						<li><a href="#"><span class="in"> </span></a></li>
+					</ul>
+				</div>
+				<div class="col-md-4 team-left team-two">
+					<img src="images/team-3.jpg" alt="" />
+					<h4>Anna Jhon</h4>
+					<ul>
+						<li><a href="#"><span class="fb"> </span></a></li>
+						<li><a href="#"><span class="t"> </span></a></li>
+						<li><a href="#"><span class="g"> </span></a></li>
+						<li><a href="#"><span class="in"> </span></a></li>
+					</ul>
+				</div>
+				<div class="col-md-4 team-left team-three">
+					<img src="images/team-2.jpg" alt="" />
+					<h4>Harry Ben</h4>
+					<ul>
+						<li><a href="#"><span class="fb"> </span></a></li>
+						<li><a href="#"><span class="t"> </span></a></li>
+						<li><a href="#"><span class="g"> </span></a></li>
+						<li><a href="#"><span class="in"> </span></a></li>
+					</ul>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+	</div>
+	<!--team-end-->
+	<!--features-starts-->
+    	<div class="features" id="features">
+    		<div class="container">
+    			<div class="features-top">
+    				<h3>Our Features</h3>
+    				<span></span>
+    			</div>
+    			<div class="features-bottom">
+    				<div class="col-md-4 feature-left">
+    					<ul>
+    						<li><p>Google Penguin Techniques</p><img src="images/feature-1.png" alt="" /><span class="one"> </span></li>
+    						<li><p>One Page SEO</p><img src="images/feature-2.png" alt="" /><span class="two"> </span></li>
+    						<li><p>Top Ranking in Search</p><img src="images/feature-3.png" alt="" /><span class="three"> </span></li>
+    						<li><p>Boost Your Traffic</p><img src="images/feature-4.png" alt="" /><span class="four"> </span></li>
+    						<li><p>Increase Sale and Earnings</p><img src="images/feature-5.png" alt="" /><span class="five"> </span></li>
+    					</ul>
+    				</div>
+    				<div class="col-md-4 feature-middle">
+    					<img src="images/iphone-3.png" alt="" />
+    				</div>
+    				<div class="col-md-4 feature-right">
+    					<ul>
+    						<li><span class="six"> </span><img src="images/feature-6.png" alt="" /><p>Build high PR Backlinks</p></li>
+    						<li><span class="seven"> </span><img src="images/feature-7.png" alt="" /><p>Google Panda Techniques</p></li>
+    						<li><span class="eght"> </span><img src="images/feature-8.png" alt="" /><p>Keywords Search</p></li>
+    						<li><span class="nine"> </span><img src="images/feature-9.png" alt="" /><p>Up Your Global Marketing</p></li>
+    						<li><span class="ten"> </span><img src="images/feature-10.png" alt="" /><p>Boost Your Ranking</p></li>
+    					</ul>
+    				</div>
+    				<div class="clearfix"></div>
+    			</div>
+    		</div>
+    	</div>
+    	<!--features-end-->
+    	<!--testimonials-starts-->
+    	<div class="testimonials">
+    		<div class="container">
+    			<div class="testimonials-top">
+    				<h3>Testimonials</h3>
+    				<span> </span>
+    			</div>
+    			<div class="testimonials-bottom">
+    				<div  id="top" class="callbacks_container">
+    			      	<ul class="rslides" id="slider5">
+    			        	<li>
+    							<div class="test-bottom">
+    								<img src="images/test-1.png" alt="" />
+    								<p><sup><img src="images/quote-1.png" alt="" /></sup> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel gravida leo, a aliquam lacus. Cras sagittis placerat libero, at pretium quam euismod at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam accumsan<sub><img src="images/quote-2.png" alt="" /></sub></p>
+    							</div>
+    						</li>
+    						<li>
+    							<div class="test-bottom">
+    								<img src="images/test-2.png" alt="" />
+    								<p><sup><img src="images/quote-1.png" alt="" /></sup> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel gravida leo, a aliquam lacus. Cras sagittis placerat libero, at pretium quam euismod at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam accumsan<sub><img src="images/quote-2.png" alt="" /></sub></p>
+    							</div>
+    						</li>
+    						<li>
+    							<div class="test-bottom">
+    								<img src="images/test-3.png" alt="" />
+    								<p><sup><img src="images/quote-1.png" alt="" /></sup> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel gravida leo, a aliquam lacus. Cras sagittis placerat libero, at pretium quam euismod at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam accumsan<sub><img src="images/quote-2.png" alt="" /></sub></p>
+    							</div>
+    						</li>
+    					</ul>
+    			    </div>
+    			  <div class="clearfix"> </div>
+    			</div>
+    		</div>
+    	</div>
+    	<!--testimonials-end-->
+    	<!--project-starts-->
+        	<div class="project" id="projects">
+        		<div class="container">
+        			<div class="project-top">
+        				<h3>Recent Projects</h3>
+        				<span> </span>
+        			</div>
+        			<div class="project-bottom">
+        				<div id="portfoliolist">
+        				<div class="portfolio app mix_all" data-cat="app" style="display: inline-block; opacity: 1;">
+        					<div class="portfolio-wrapper">
+        						<a href="images/project-1.png" class="b-link-stripe b-animate-go   swipebox"  title="Image Title">
+        							   <img src="images/project-1.png" /><div class="b-wrapper"><h2 class="b-animate b-from-left    b-delay03 ">
+        							   <p>Website Url</p>
+        							   <ul>
+        							   	<li><img src="images/link.png" alt="" /></li>
+        							   	<li><img src="images/srh.png" alt="" /></li>
+        							   	<li><img src="images/star.png" alt="" /></li>
+        							   </ul>
+        							   </h2>
+        						</div></a>
+        			        </div>
+        			    </div>
+        			    <div class="portfolio app mix_all" data-cat="app" style="display: inline-block; opacity: 1;">
+        					<div class="portfolio-wrapper">
+        						<a href="images/project-2.png" class="b-link-stripe b-animate-go   swipebox"  title="Image Title">
+        							   <img src="images/project-2.png" /><div class="b-wrapper"><h2 class="b-animate b-from-left    b-delay03 ">
+        							   	<p>Website Url</p>
+        							   <ul>
+        							   	<li><img src="images/link.png" alt="" /></li>
+        							   	<li><img src="images/srh.png" alt="" /></li>
+        							   	<li><img src="images/star.png" alt="" /></li>
+        							   </ul>
+        							   </h2>
+        						</div></a>
+        			        </div>
+        			    </div>
+        			    <div class="portfolio app mix_all" data-cat="app" style="display: inline-block; opacity: 1;">
+        					<div class="portfolio-wrapper">
+        						<a href="images/project-3.png" class="b-link-stripe b-animate-go   swipebox"  title="Image Title">
+        							   <img src="images/project-3.png" /><div class="b-wrapper"><h2 class="b-animate b-from-left    b-delay03 ">
+        							   	<p>Website Url</p>
+        							   <ul>
+        							   	<li><img src="images/link.png" alt="" /></li>
+        							   	<li><img src="images/srh.png" alt="" /></li>
+        							   	<li><img src="images/star.png" alt="" /></li>
+        							   </ul>
+        							   </h2>
+        						</div></a>
+        			        </div>
+        			    </div>
+        			    <div class="clearfix"></div>
+        			</div>
+        			</div>
+        		</div>
+        	</div>
+        	<!--project-end-->
+        	<link rel="stylesheet" href="css/swipebox.css">
+        	<script src="js/jquery.swipebox.min.js"></script>
+        	    <script type="text/javascript">
+        			jQuery(function($) {
+        				$(".swipebox").swipebox();
+        			});
+        		</script>
+        	<!-- Portfolio Ends Here -->
