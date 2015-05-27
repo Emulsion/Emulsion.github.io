@@ -41,40 +41,7 @@
 		</div>
 	</div>
 	<!--team-end-->
-	<!--features-starts-->
-    	<div class="features" id="features">
-    		<div class="container">
-    			<div class="features-top">
-    				<h3>Our Features</h3>
-    				<span></span>
-    			</div>
-    			<div class="features-bottom">
-    				<div class="col-md-4 feature-left">
-    					<ul>
-    						<li><p>Google Penguin Techniques</p><img src="images/feature-1.png" alt="" /><span class="one"> </span></li>
-    						<li><p>One Page SEO</p><img src="images/feature-2.png" alt="" /><span class="two"> </span></li>
-    						<li><p>Top Ranking in Search</p><img src="images/feature-3.png" alt="" /><span class="three"> </span></li>
-    						<li><p>Boost Your Traffic</p><img src="images/feature-4.png" alt="" /><span class="four"> </span></li>
-    						<li><p>Increase Sale and Earnings</p><img src="images/feature-5.png" alt="" /><span class="five"> </span></li>
-    					</ul>
-    				</div>
-    				<div class="col-md-4 feature-middle">
-    					<img src="images/iphone-3.png" alt="" />
-    				</div>
-    				<div class="col-md-4 feature-right">
-    					<ul>
-    						<li><span class="six"> </span><img src="images/feature-6.png" alt="" /><p>Build high PR Backlinks</p></li>
-    						<li><span class="seven"> </span><img src="images/feature-7.png" alt="" /><p>Google Panda Techniques</p></li>
-    						<li><span class="eght"> </span><img src="images/feature-8.png" alt="" /><p>Keywords Search</p></li>
-    						<li><span class="nine"> </span><img src="images/feature-9.png" alt="" /><p>Up Your Global Marketing</p></li>
-    						<li><span class="ten"> </span><img src="images/feature-10.png" alt="" /><p>Boost Your Ranking</p></li>
-    					</ul>
-    				</div>
-    				<div class="clearfix"></div>
-    			</div>
-    		</div>
-    	</div>
-    	<!--features-end-->
+
     	<!--testimonials-starts-->
     	<div class="testimonials">
     		<div class="container">
