@@ -396,7 +396,7 @@ ul.navig li:nth-of-type(3) {
 }
 /*------------------ Slider Part starts Here----------*/
 .slider{
-	background:url(../images/slide-banner.jpg)no-repeat;
+	background:url(../images/banner-1.jpg)no-repeat;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
